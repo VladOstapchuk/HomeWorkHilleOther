@@ -1,0 +1,44 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<!-- Homework #5 -->
+<homework>
+	<pr1>
+		<Name>Orange</Name>
+		<Color>orange</Color>
+		<Shape>ball</Shape>
+		<Food>yes</Food>
+		<Weight>0,2</Weight>
+		<MainMaterial>water</MainMaterial>
+	</pr1>
+	<pr2>
+		<Name>Marker</Name>
+		<Color>green</Color>
+		<Shape>cylinder</Shape>
+		<Food>no</Food>
+		<Weight>0,05</Weight>
+		<MainMaterial>plastic</MainMaterial>
+	</pr2>
+	<pr3>
+		<Name>T-Shirt</Name>
+		<Color>white</Color>
+		<Shape>free</Shape>
+		<Food>no</Food>
+		<Weight>0,1</Weight>
+		<MainMaterial>textile</MainMaterial>
+	</pr3>
+	<pr4>
+		<Name>Cup</Name>
+		<Color>multi</Color>
+		<Shape>cylinder</Shape>
+		<Food>no</Food>
+		<Weight>0,2</Weight>
+		<MainMaterial>glass</MainMaterial>
+	</pr4>
+	<pr5>
+		<Name>Table</Name>
+		<Color>braun</Color>
+		<Shape>free</Shape>
+		<Food>no</Food>
+		<Weight>10</Weight>
+		<MainMaterial>wood</MainMaterial>
+	</pr5>
+</homework>

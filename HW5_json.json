@@ -1,0 +1,46 @@
+{
+  "homework #5": [
+    {
+      "pr1": {
+        "Name": "Orange",
+        "Color": "orange",
+        "Shape": "ball",
+        "Food": "yes",
+        "Weight": 0.2,
+        "Main Material": "water"
+      },
+      "pr2": {
+        "Name": "Marker",
+        "Color": "green",
+        "Shape": "cylinder",
+        "Food": "no",
+        "Weight": 0.05,
+        "Main Material": "plastic"
+      },
+      "pr3": {
+        "Name": "T-Shirt",
+        "Color": "white",
+        "Shape": "free",
+        "Food": "no",
+        "Weight": 0.1,
+        "Main Material": "textile"
+      },
+      "pr4": {
+        "Name": "Cup",
+        "Color": "multi",
+        "Shape": "cylinder",
+        "Food": "no",
+        "Weight": 0.1,
+        "Main Material": "glass"
+      },
+      "pr5": {
+        "Name": "Table",
+        "Color": "braun",
+        "Shape": "free",
+        "Food": "no",
+        "Weight": 10,
+        "Main Material": "wood"
+      }
+    }
+  ]
+}
